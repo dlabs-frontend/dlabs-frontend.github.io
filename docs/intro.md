@@ -9,6 +9,7 @@ sidebar_position: 1
 <!-- What to expect from this documentation -->
 In this page, I hope that you can understand **what we are**, **what we do**, and **what to do** so you know your surroundings and understand how are things organised.
 This documentation purpose is to document projects of DDI (as parent company).
+
 As a member of DLabs, you have to know that we're all in one team, but focuses in a lot of different project from DDI (short for Daya Dimensi Indonesia). DDI itself have a lot of children company like Klob for example, and underneath the children company there can be multiple projects inside of it.
 
 :::tip Shortcut
