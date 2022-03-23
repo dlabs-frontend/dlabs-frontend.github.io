@@ -12,7 +12,10 @@ This documentation purpose is to document projects of DDI (as parent company).
 As a member of DLabs, you have to know that we're all in one team, but focuses in a lot of different project from DDI (short for Daya Dimensi Indonesia). DDI itself have a lot of children company like Klob for example, and underneath the children company there can be multiple projects inside of it.
 
 :::tip Shortcut
-If you want to read about our projects you can directly go to [About Projects](/docs/projects)
+
+- If you want to read about our projects you can directly go to [About Projects](/docs/projects)
+- If you want to contribute to this repository read [Contribution](/docs/CONTRIBUTION)
+
 :::
 
 ## Introduction
