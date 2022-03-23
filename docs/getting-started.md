@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Getting Started
 
 ## Software Development Life Cycle
