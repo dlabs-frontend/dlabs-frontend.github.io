@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'dlabs-frontend',
-  projectName: 'dlabs-frontend',
+  projectName: 'dlabs-frontend.github.io',
   trailingSlash: false,
 
   presets: [
