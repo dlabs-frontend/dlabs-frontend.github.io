@@ -4,6 +4,7 @@ sidebar_position: 3
 
 # About SDLC
 
+## What is Software Development Life Cycle?
 ![Software Development Lifecycle Diagram](/img/Software-Development-Life-Cycle-Models-Google-Slides-Templates-Diagrams-0004.jpg)
 <sub><sup>Image taken from Slice Salad</sup></sub>
 
