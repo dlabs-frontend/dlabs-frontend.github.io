@@ -2,9 +2,7 @@
 sidebar_position: 3
 ---
 
-# Getting Started
-
-## Software Development Life Cycle
+# About SDLC
 
 ![Software Development Lifecycle Diagram](/img/Software-Development-Life-Cycle-Models-Google-Slides-Templates-Diagrams-0004.jpg)
 <sub><sup>Image taken from Slice Salad</sup></sub>
