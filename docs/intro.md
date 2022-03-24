@@ -36,4 +36,4 @@ Taken from [Daya Dimensi Indonesia's website](https://www.dayadimensi.co.id/)
 Klob is ...
 
 ## Contribution
-If you want to contribute please read [Contribution](/docs/CONTRIBUTION.md)
+If you want to contribute please read [Contribution](/docs/CONTRIBUTION)
