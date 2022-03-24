@@ -12,4 +12,7 @@ sidebar_position: 1
 ## What Design Pattern do we use here?
 There's a design pattern named Atomic Design Pattern by ...
 
+## Commit Messages
+We follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 To learn about what's Docusaurus is about you can check it out on [About Docusaurus](/docs/about-docusaurus).
